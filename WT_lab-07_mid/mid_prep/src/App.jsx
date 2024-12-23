@@ -31,7 +31,7 @@ const item3 = {
     <div className="App">
       <Navbar />
       <Hero/>
-      <div className='h-screen flex flex-col justify-center gap-6'>
+      <div className='flex flex-col justify-center gap-6 py-24'>
       <h1 className='capitalize text-[#8f160d] text-4xl font-bold text-center'>Our speciality menu</h1>
       
       <div className='flex justify-center items-center gap-7'> 
